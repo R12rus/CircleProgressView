@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CircleProgressView">
+        <attr name="circleprogressview_circle_diameter" format="dimension"/>
+        <attr name="circleprogressview_circle_color" format="color"/>
+        <attr name="circleprogressview_duration_in_millis" format="integer"/>
+        <attr name="circleprogressview_infinite" format="boolean"/>
+        <attr name="circleprogressview_progress" format="integer"/>
+    </declare-styleable>
+
+</resources>
